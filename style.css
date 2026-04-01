@@ -68,11 +68,7 @@ button[type="submit"] {
 button[type="submit"]:hover {
   background-color: #000080; /* Slightly darker blue on hover */
 } 
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none; /* Removes the underline */
-}
-
+  
 /* Changes the color when you hover over a link */
 nav li a:hover {
   background-color: #111;
